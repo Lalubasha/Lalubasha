@@ -24,7 +24,7 @@ I'm a passionate full-stack web developer with a keen interest in creating seaml
 <!-- My Tech Stack -->
 ## 💻 My Tech Stack
 
-![Tech Stack](https://link.to/your/tech-stack.png) <!-- Image with logos of your preferred technologies -->
+ <!-- Image with logos of your preferred technologies -->
 
 - React.js
 - Node.js
