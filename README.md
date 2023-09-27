@@ -23,17 +23,18 @@ I'm a passionate full-stack web developer with a knack for crafting seamless and
 </p>
 
 <!-- My Tech Stack -->
+
 ## 💻 My Tech Stack
 
-- ![React.js](https://fontawesome.com/icons/react?style=brands)
-- ![Node.js](https://fontawesome.com/icons/node?style=brands)
-- ![Java](https://fontawesome.com/icons/java?style=brands)
-- ![Python](https://fontawesome.com/icons/python?style=brands)
-- ![Spring Boot](https://fontawesome.com/icons/spring?style=brands)
-- ![PHP](https://fontawesome.com/icons/php?style=brands)
-- ![JavaScript](https://fontawesome.com/icons/js?style=brands)
-- ![Laravel](https://fontawesome.com/icons/laravel?style=brands)
-- ![MySQL](https://fontawesome.com/icons/database?style=solid)
+- ![React.js](https://img.icons8.com/color/48/000000/react.png) React.js
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+- ![Java](https://img.icons8.com/color/48/000000/java.png) Java
+- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+- ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot
+- ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![Laravel](https://img.icons8.com/color/48/000000/laravel.png) Laravel
+- ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) MySQL
 
 
 <!-- Languages I Know -->
