@@ -40,6 +40,12 @@ I'm a passionate full-stack web developer with a knack for crafting seamless and
 
 ![Languages](https://link.to/your/languages-image.png) <!-- Image with logos of languages you know -->
 
+- JavaScript
+- HTML/CSS
+- Python
+- Java
+- C/C++
+
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
@@ -57,9 +63,9 @@ I'm a passionate full-stack web developer with a knack for crafting seamless and
 <!-- Featured Projects -->
 ## 🌟 Featured Projects
 
-- [Project 1](https://github.com/Lalubasha/Travel_Planner) - A responsive e-commerce website built with React and Node.js.
-- [Project 2](https://github.com/Lalubasha/Capstone_Project) - An interactive ATM pin matching website showcasing my Spring Boot MVC journey.
-- [Project 3](https://github.com/Lalubasha/Portfolio) - An interactive portfolio showcasing my skills.
+1. [**Travel Planner**](https://github.com/Lalubasha/Travel_Planner) - A responsive e-commerce website built with React and Node.js.
+2. [**Capstone Project**](https://github.com/Lalubasha/Capstone_Project) - An interactive ATM pin matching website showcasing my Spring Boot MVC journey.
+3. [**Portfolio**](https://github.com/Lalubasha/Portfolio) - An interactive portfolio showcasing my skills.
 
 <!-- Footer -->
 <p align="center">
@@ -69,3 +75,11 @@ I'm a passionate full-stack web developer with a knack for crafting seamless and
   <br/>
   <img src="https://img.icons8.com/ios-filled/50/000000/quote-right.png"/>
 </p>
+
+<!-- Additional Functionality -->
+## 🌐 More Functionality
+
+
+- **Open Source Contributions**: I actively contribute to open source projects on [GitHub](https://github.com/Lalubasha) to make the developer community stronger.
+
+Feel free to reach out and connect with me. I'm always excited to collaborate on new projects and share knowledge with fellow developers. 😊
