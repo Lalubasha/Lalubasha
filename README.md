@@ -25,26 +25,29 @@ I'm a passionate full-stack web developer with a knack for crafting seamless and
 <!-- My Tech Stack -->
 ## 💻 My Tech Stack
 
-![Tech Stack](https://link.to/your/tech-stack.png) <!-- Image with logos of your preferred technologies -->
+- ![React.js](https://fontawesome.com/icons/react?style=brands)
+- ![Node.js](https://fontawesome.com/icons/node?style=brands)
+- ![Java](https://fontawesome.com/icons/java?style=brands)
+- ![Python](https://fontawesome.com/icons/python?style=brands)
+- ![Spring Boot](https://fontawesome.com/icons/spring?style=brands)
+- ![PHP](https://fontawesome.com/icons/php?style=brands)
+- ![JavaScript](https://fontawesome.com/icons/js?style=brands)
+- ![Laravel](https://fontawesome.com/icons/laravel?style=brands)
+- ![MySQL](https://fontawesome.com/icons/database?style=solid)
+
+
+<!-- Languages I Know -->
+## 🌐 Languages I Know
 
 - React.js
 - Node.js
 - Java
 - Python
-- C/C++
 - Spring Boot
 - PHP
-
-<!-- Languages I Know -->
-## 🌐 Languages I Know
-
-![Languages](https://link.to/your/languages-image.png) <!-- Image with logos of languages you know -->
-
-- JavaScript
-- HTML/CSS
-- Python
-- Java
-- C/C++
+- Java Script
+- Laravel
+- My Sql
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
