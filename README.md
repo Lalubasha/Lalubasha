@@ -27,7 +27,7 @@ I'm a passionate full-stack web developer with a knack for crafting seamless and
 ## 💻 My Tech Stack
 
 
-- [![React.js](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Light.svg)(https://reactjs.org/) React.js)
+- [![React.js](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Light.svg )](https://reactjs.org/) React.js)
 - [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/) Node.js
 - [![Java](https://img.icons8.com/color/48/000000/java.png)](https://www.java.com/) Java
 - [![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/) Python
