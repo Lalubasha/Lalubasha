@@ -27,8 +27,7 @@ I'm a passionate full-stack web developer with a knack for crafting seamless and
 ## 💻 My Tech Stack
 
 
-
-- [- ![React.js](https://fontawesome.com/icons/react?style=brands)](https://reactjs.org/) React.js
+- [![React.js](https://img.icons8.com/color/48/000000/react.png)](https://reactjs.org/) React.js)
 - [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/) Node.js
 - [![Java](https://img.icons8.com/color/48/000000/java.png)](https://www.java.com/) Java
 - [![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/) Python
