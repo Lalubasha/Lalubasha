@@ -28,7 +28,7 @@ I'm a passionate full-stack web developer with a knack for crafting seamless and
 
 
 
-- [![React.js]([https://img.icons8.com/color/48/000000/react.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-logo%2Freact-1&psig=AOvVaw2quLGCwCZzDWC-qrv44bqg&ust=1695918080854000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDo0KeZy4EDFQAAAAAdAAAAABAE))](https://reactjs.org/) React.js
+- [- ![React.js](https://fontawesome.com/icons/react?style=brands)](https://reactjs.org/) React.js
 - [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/) Node.js
 - [![Java](https://img.icons8.com/color/48/000000/java.png)](https://www.java.com/) Java
 - [![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/) Python
