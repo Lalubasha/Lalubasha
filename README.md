@@ -26,15 +26,17 @@ I'm a passionate full-stack web developer with a knack for crafting seamless and
 
 ## 💻 My Tech Stack
 
-- ![React.js](https://img.icons8.com/color/48/000000/react.png) React.js
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
-- ![Java](https://img.icons8.com/color/48/000000/java.png) Java
-- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-- ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot
-- ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- ![Laravel](https://img.icons8.com/color/48/000000/laravel.png) Laravel
-- ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) MySQL
+
+
+- [![React.js](https://img.icons8.com/color/48/000000/react.png)](https://reactjs.org/) React.js
+- [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/) Node.js
+- [![Java](https://img.icons8.com/color/48/000000/java.png)](https://www.java.com/) Java
+- [![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/) Python
+- [![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)](https://spring.io/projects/spring-boot) Spring Boot
+- [![PHP](https://img.icons8.com/color/48/000000/php.png)](https://www.php.net/) PHP
+- [![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) JavaScript
+- [![MySQL](https://img.icons8.com/color/48/000000/mysql.png)](https://www.mysql.com/) MySQL
+
 
 
 <!-- Languages I Know -->
