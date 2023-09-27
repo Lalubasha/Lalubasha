@@ -28,9 +28,9 @@ I'm a passionate full-stack web developer with a knack for crafting seamless and
 
 
 
-- [![React.js](https://img.icons8.com/color/48/000000/react.png)](https://reactjs.org/) React.js
+- [![React.js]([https://img.icons8.com/color/48/000000/react.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhWzy63tJ50TlG7lgg1GY8-dtem5FZMTRmMzDZcqs&s))](https://reactjs.org/) React.js
 - [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/) Node.js
-- [![Java](https://img.icons8.com/color/48/000000/java.png)](https://www.java.com/) Java
+- [![Java]([https://img.icons8.com/color/48/000000/java.png](https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png))](https://www.java.com/) Java
 - [![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/) Python
 - [![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)](https://spring.io/projects/spring-boot) Spring Boot
 - [![PHP](https://img.icons8.com/color/48/000000/php.png)](https://www.php.net/) PHP
